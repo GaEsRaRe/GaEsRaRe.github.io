@@ -1,14 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to my GitHub
 
-You can use the [editor on GitHub](https://github.com/GaEsRaRe/GaEsRaRe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a Computer Scientist that enjoys lots of things:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **Machine learning, Image processing, Software development, Project Management**
 
-### Markdown
+and I hope you can see the best of my work here!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Most proud projects:
 
-```markdown
+Some of my most proud projects are:
+1. Bayesian Network Engine in C++ [Go to Project](https://GaEsRaRe.github.io/BayesianEgineCPP)
+
 Syntax highlighted code block
 
 # Header 1
@@ -24,7 +26,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
